@@ -5,7 +5,7 @@ The Image Classification Model Deployment description outlines the process of im
 [View](https://www.kaggle.com/datasets/duttadebadri/image-classification)
 
 ## Information
-[View](https://github.com/achmadhadikurnia/belajar-pengembangan-machine-learning-dicoding-certificate)
+[View](https://github.com/achmadhadikurnia/belajar-pengembangan-machine-learning-dicoding-expertise-certificate)
 
 ## Program
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/image-classification-model-deployment/blob/main/classification.ipynb)
